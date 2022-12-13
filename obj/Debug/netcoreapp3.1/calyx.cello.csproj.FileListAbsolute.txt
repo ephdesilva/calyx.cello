@@ -1,0 +1,10 @@
+C:\Users\Harshana\source\repos\calyx.cello\bin\Debug\netcoreapp3.1\calyx.cello.deps.json
+C:\Users\Harshana\source\repos\calyx.cello\bin\Debug\netcoreapp3.1\calyx.cello.dll
+C:\Users\Harshana\source\repos\calyx.cello\bin\Debug\netcoreapp3.1\calyx.cello.pdb
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.csproj.AssemblyReference.cache
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.AssemblyInfoInputs.cache
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.AssemblyInfo.cs
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.csproj.CoreCompileInputs.cache
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.dll
+C:\Users\Harshana\source\repos\calyx.cello\obj\Debug\netcoreapp3.1\calyx.cello.pdb
